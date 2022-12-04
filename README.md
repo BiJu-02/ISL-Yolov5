@@ -19,6 +19,8 @@ pip install -r requirements.txt
 
 To run this project
 
+Move the detectISL.py file into the yolov5 directory and run the following command by opening terminal inside that directory.
+
 ```bash
 py detect.py --weights best.pt --source 0
 ```
